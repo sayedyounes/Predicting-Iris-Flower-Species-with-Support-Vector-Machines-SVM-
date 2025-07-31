@@ -1,0 +1,2 @@
+# Predicting-Iris-Flower-Species-with-Support-Vector-Machines-SVM-
+I recently completed a machine learning project using the classic Iris dataset, where I applied Support Vector Classification (SVC) to accurately classify flower species based on their physical features.  🔍 Project Overview: This project walks through the full machine learning pipeline—from data exploration to model evaluation—using Python.
